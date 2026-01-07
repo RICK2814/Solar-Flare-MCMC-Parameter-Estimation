@@ -35,6 +35,12 @@ This project implements a Metropolis-Hastings Markov Chain Monte Carlo (MCMC) al
 - [License](#license)
 - [Team](#team)
 
+## 🚀 Live Streamlit App
+
+The application is deployed on Streamlit Cloud and can be accessed here:
+
+👉 https://solar-flare-mcmc-parameter-estimation-qfmevfbh5c8bmjwk2wzwgk.streamlit.app/
+
 ## 🔬 Physical Background
 
 Solar flares exhibit a characteristic intensity pattern:
