@@ -309,7 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback:
 - Email: [rohitbanerjeerick@gmail.com]
-- GitHub Issues: [Project Issues Page]
 
 ## 🙏 Acknowledgments
 
