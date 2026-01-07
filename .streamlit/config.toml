@@ -1,0 +1,16 @@
+[client]
+showErrorDetails = true
+
+[server]
+port = 8501
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+runOnSave = false
+maxUploadSize = 500
+
+[browser]
+gatherUsageStats = false
+
+[logger]
+level = "error"
