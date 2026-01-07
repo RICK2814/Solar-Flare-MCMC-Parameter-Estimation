@@ -332,8 +332,7 @@ For questions or feedback:
 
 ---
 
-**Built with ❤️ for the January 2026 Solar Flare Competition**
+**Built with ❤️ for the January 2026 Stimulation Rush Competition**
 =======
 # Solar-Flare-MCMC-Parameter-Estimation
 Streamlit app for solar flare analysis
->>>>>>> 4394fcc1a4944372ae3b7f1094d5bacf649005ea
